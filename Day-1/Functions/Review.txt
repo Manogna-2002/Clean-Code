@@ -1,0 +1,19 @@
+Review
+ 
+Review1.
+    Fucntion name should be Pascal Case
+    Username is same word
+    Remove Extra spaces
+    Curly braces should be in new line
+Review2
+    string instead for var
+Review3
+ 
+Review5
+  No Return
+Review6
+  use interpolation instead of concat
+  don't use magic strings
+ 
+Review 8
+pass an object instead of many parameters
