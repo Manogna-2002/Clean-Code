@@ -1,1 +1,29 @@
 
+Reviews
+ 
+Review_1
+int d is not meaningful, the varibale can be elapsedTimeInDays
+ 
+Review_2
+The name of the vairbale is not complete, and the name of the varibale can be listOfEmployeesFromDB
+ 
+Review_3
+the prefixes that were added as i, str and 	d is not required, directly the name of the vairbale can be used.
+ 
+Review_4
+The name of the variables does not make sense, give more meaningful names to them.
+ 
+Review_5
+ 
+Change the naming convention for the Constant Variables, use UpperCase for defining contants.
+use double quotes for strings
+Use class names with Pascal Case
+There should not be underscore for method names
+ 
+Review_6
+Make the variable names more meaningful.
+and try to avoid unecessary comments
+ 
+Review_7
+The variable has to be in CamelCase
+Specify the type of the variable rather than just using var.
