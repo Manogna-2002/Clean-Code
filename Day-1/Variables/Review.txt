@@ -1,3 +1,4 @@
+original Scores:
 
 Variables :
  
@@ -18,3 +19,26 @@ Score - 0
  
 Review_9
 Score - 2
+
+
+Reduced Scores:
+
+Variables :
+ 
+Review_1: 
+Score - 1
+ 
+Review_3:
+Score - 3
+ 
+Review_4
+Score - 1
+ 
+Review_5
+Score - 1
+ 
+Review_6
+Score - 0
+ 
+Review_9
+Score - 1
